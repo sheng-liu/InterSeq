@@ -1,1 +1,1 @@
-seqviz-suite
+interseq-suite
