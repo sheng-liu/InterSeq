@@ -1,4 +1,4 @@
-**Epigenomic sequencing data exploration with SeqViz suite**
+**Epigenomic sequencing data exploration with interSeq suite**
 
 # Introduction #
 
